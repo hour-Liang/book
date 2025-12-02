@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/components/book/ts/book.ts","./src/router/intext.ts","./src/store/index.ts","./src/utils/copy.ts","./src/app.vue","./src/components/booklist.vue","./src/components/book/addbook.vue","./src/components/book/editbook.vue","./src/views/home.vue"],"version":"5.9.3"}
